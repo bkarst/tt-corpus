@@ -7,30 +7,26 @@ Trivia Tango - Fun Quiz Duels
 Trivia Battles & Collectibles
 
 ## Promotional Text
-Challenge friends, unlock categories, and build your ultimate gallery in this fast-paced trivia game!
+More than just a quiz! Battle friends, upgrade your Venue, and collect rare artifacts in this fast-paced trivia game.
 
 ## Description
 
-Welcome to Trivia Tango, the ultimate trivia and collection experience! Test your knowledge across thousands of questions, challenge your friends to turn-based multiplayer matches, and build an incredible gallery of rare artifacts.
+Step into the arena with Trivia Tango, the ultimate blend of high-stakes quiz battles and an addictive artifact collection meta-game! Outsmart rivals across thousands of questions, dominate turn-based multiplayer duels, and curate a gallery of rare treasures.
 
-Whether you have a few minutes for a Quick Match or want to dive deep into your favorite topics, Trivia Tango has something for everyone. 
+Trivia Tango goes beyond the standard trivia experience with unique features designed to reward your knowledge and curiosity.
 
 Features:
 
-- Endless Trivia: Explore a massive library of questions across 11 Mega Categories, from History and Science to Pop Culture and Sports.
+- Turn-Based Duels: Challenge friends or use Auto-Match to instantly generate a game tailored to both players' favorite subjects! Counter-pick categories, wager points, and steal the victory.
+- Curate Your Venue: Experience a collectible meta-game like no other. Earn coins, crack Mystery Boxes, and hoard legendary artifacts to evolve your display from a dusty Locker all the way to a world-class Palace.
+- Deep-Dive Story Cards: The learning never stops. Uncover the hidden histories and shocking truths behind the answers with fully-voiced, text-to-speech Story Cards.
+- Track Your True Skill: Ditch simple win/loss records. Our advanced Glicko rating system tracks your mastery across specific topics and categories.
+- Endless Trivia: Conquer a massive, ever-expanding library spanning 11 Mega Categories, from ancient History to cutting-edge Science.
 
-- Quick Match & Multiplayer: Jump right into the action with Auto-Match or challenge your friends directly. Counter-pick categories and wager points for maximum competitive fun!
+Trivia Tango Pro:
+Upgrade to banish ads and claim a monthly bounty of Coins and Gems.
 
-- Build Your Venue: Earn coins, open Mystery Boxes, and collect artifacts of varying rarities. Upgrade your gallery from a simple Locker all the way to a majestic Palace!
-
-- Climb the Ranks: Level up, earn achievements, and track your true skill with our advanced rating system to see how you stack up globally.
-
-- Story Cards: Dive deeper into fascinating topics with post-game Story Cards featuring text-to-speech audio.
-
-Trivia Tango Pro (Optional Subscription):
-Upgrade to Trivia Tango Pro for an entirely ad-free experience and receive a monthly bonus of Coins and Gems!
-
-Download Trivia Tango now and let the games begin!
+Download Trivia Tango now and outsmart the competition!
 
 ## Keywords
 trivia, quiz, multiplayer, collection, learning, educational, puzzle, party game, brain training, friends
@@ -72,8 +68,8 @@ To maximize conversion, we will include 7 highly visual, polished screenshots wi
 
 **Screenshot 6: Deep Statistics & Skill Ratings**
 - **Visual:** The `/profile` view highlighting the user's Level badge, Win Rate, Accuracy, and Glicko skill ratings.
-- **Caption:** "Climb the Global Ranks!"
-- **Focus:** Appeals to competitive players who want to track their mastery and achievements.
+- **Caption:** "Track Your Skill Ratings!"
+- **Focus:** Appeals to competitive players who want to track your mastery and achievements.
 
 **Screenshot 7: Educational Story Cards**
 - **Visual:** The `/game/[id]` (Story View) or `/bookmarks` view showing an expanded explanation with the text-to-speech audio controls and visual illustration.

@@ -44,7 +44,7 @@
 - **Gems:** The premium hard currency. Used for high-tier Store purchases, rare Mystery Boxes, or expediting timers.
 
 ### 3.2 Progression & Rewards
-- **XP & Levels:** Players earn XP from games to level up. Level badges are displayed on player profiles and leaderboards.
+- **XP & Levels:** Players earn XP from games to level up. Level badges are displayed on player profiles.
 - **Rewards Distribution (Multiplayer):**
   - **Win:** +50 XP, ×2.5 Coins, 1 Mystery Box.
   - **Tie:** +30 XP, ×1.5 Coins, 1 Mystery Box.
