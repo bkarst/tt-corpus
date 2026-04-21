@@ -1,36 +1,36 @@
 # Trivia Tango - App Store Description
 
 ## App Name
-Trivia Tango
+Trivia Tango - Fun Quiz Duels
 
 ## Subtitle
-Multiplayer Trivia & Collection
+Trivia Battles & Collectibles
 
 ## Promotional Text
 Challenge friends, unlock categories, and build your ultimate gallery in this fast-paced trivia game!
 
 ## Description
 
-Welcome to **Trivia Tango**, the ultimate trivia and collection experience! Test your knowledge across thousands of questions, challenge your friends to real-time multiplayer matches, and build an incredible gallery of rare artifacts.
+Welcome to Trivia Tango, the ultimate trivia and collection experience! Test your knowledge across thousands of questions, challenge your friends to turn-based multiplayer matches, and build an incredible gallery of rare artifacts.
 
 Whether you have a few minutes for a Quick Match or want to dive deep into your favorite topics, Trivia Tango has something for everyone. 
 
-**Features:**
+Features:
 
-🧠 **Endless Trivia:** Explore a massive library of questions across 11 Mega Categories, from History and Science to Pop Culture and Sports.
+- Endless Trivia: Explore a massive library of questions across 11 Mega Categories, from History and Science to Pop Culture and Sports.
 
-⚡ **Quick Match & Multiplayer:** Jump right into the action with Auto-Match or challenge your friends directly. Counter-pick categories and wager points for maximum competitive fun!
+- Quick Match & Multiplayer: Jump right into the action with Auto-Match or challenge your friends directly. Counter-pick categories and wager points for maximum competitive fun!
 
-🏆 **Build Your Venue:** Earn coins, open Mystery Boxes, and collect artifacts of varying rarities. Upgrade your gallery from a simple Locker all the way to a majestic Palace!
+- Build Your Venue: Earn coins, open Mystery Boxes, and collect artifacts of varying rarities. Upgrade your gallery from a simple Locker all the way to a majestic Palace!
 
-📈 **Climb the Ranks:** Level up, earn achievements, and track your true skill with our advanced rating system to see how you stack up globally.
+- Climb the Ranks: Level up, earn achievements, and track your true skill with our advanced rating system to see how you stack up globally.
 
-🎧 **Story Cards:** Dive deeper into fascinating topics with post-game Story Cards featuring text-to-speech audio.
+- Story Cards: Dive deeper into fascinating topics with post-game Story Cards featuring text-to-speech audio.
 
-**Trivia Tango Pro (Optional Subscription):**
+Trivia Tango Pro (Optional Subscription):
 Upgrade to Trivia Tango Pro for an entirely ad-free experience and receive a monthly bonus of Coins and Gems!
 
-*Download Trivia Tango now and let the games begin!*
+Download Trivia Tango now and let the games begin!
 
 ## Keywords
 trivia, quiz, multiplayer, collection, learning, educational, puzzle, party game, brain training, friends
@@ -50,7 +50,7 @@ To maximize conversion, we will include 7 highly visual, polished screenshots wi
 - **Caption:** "Test Your Knowledge!"
 - **Focus:** Showcases the clean, modern interface of the core trivia loop.
 
-**Screenshot 2: Real-Time Multiplayer**
+**Screenshot 2: Turn-Based Multiplayer**
 - **Visual:** The `/results/[id]/multiplayer` view showing a head-to-head score comparison, winner banner, and confetti animation.
 - **Caption:** "Challenge Your Friends!"
 - **Focus:** Highlights the competitive, social aspect of the game.

@@ -1,7 +1,7 @@
 # Trivia Tango - Comprehensive Game Design Document
 
 ## 1. Executive Summary
-**Trivia Tango** is a mobile-first, highly interactive trivia and collection application designed to engage users through varied gameplay modes—spanning single-player exploration to real-time, competitive multiplayer features. The game combines a deep trivia experience with a robust progression system, social mechanics, a collectible "Venue" metagame, and a premium monetization framework. 
+**Trivia Tango** is a mobile-first, highly interactive trivia and collection application designed to engage users through varied gameplay modes—spanning single-player exploration to asynchronous, turn-based competitive multiplayer features. The game combines a deep trivia experience with a robust progression system, social mechanics, a collectible "Venue" metagame, and a premium monetization framework. 
 
 **Core Loop:** Answer trivia questions → Earn XP/Coins/Mystery Boxes → Expand the "Venue" collection & Unlock new categories → Challenge Friends/Climb Ratings.
 
@@ -88,7 +88,7 @@ Located within the Venue hub, the Store allows players to purchase:
 
 ### 5.2 Challenge Hub
 - A dedicated view for managing received and sent challenges, organized by status: Pending, Ready, In-Game, and Completed.
-- Multiplayer games feature real-time opponent score tracking and visual indicators of the opponent's status.
+- Multiplayer games feature asynchronous opponent score tracking and visual indicators of the opponent's progress through the rounds.
 - End-of-game screens feature detailed score comparisons, question-by-question breakdowns, winner celebration animations (confetti), and immediate "Rematch" buttons.
 
 ---
@@ -196,7 +196,7 @@ The application is composed of 34 distinct views grouped into logical categories
 - **Pre-Question (Story View):** Category breadcrumb, Story text/image, Audio controls (TTS), Topic rating (Like/Dislike/Hide), Continue button.
 - **Question View:** Progress (X of Y), Difficulty badge, Question text with Read Aloud TTS, 4 multiple choice options.
 - **Feedback View:** Correct/Incorrect banner with points earned, detailed explanation with TTS, post-question actions (Bookmark, Like/Dislike, Block).
-- **Multiplayer Additions:** Real-time opponent score, online status indicator, Betting UI for wagers.
+- **Multiplayer Additions:** Asynchronous opponent score updates, turn-based status indicator, Betting UI for wagers.
 
 **`/results/[id]` (Single Player Results)**
 - **Hero:** Trophy celebration, Result message ("Excellent!"), Large Final Score card, Stats (Accuracy & Correct count).
