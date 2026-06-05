@@ -66,7 +66,50 @@ To stand out in a crowded market, our messaging will focus on what makes Trivia 
 - Introduce limited-time "Featured Artifacts" in the Store.
 - Release seasonal Mega Categories (e.g., "Spooky History" for Halloween).
 
-## 8. Key Performance Indicators (KPIs)
+## 8. Social Media Accounts to Engage
+
+Target accounts for commenting, engagement, and community building across platforms.
+
+### Instagram
+- @trilogyloops — trivia content creator
+- @quizwithmequiz — daily quiz stories
+- @triviainsider — trivia news and facts
+- @brainbusters_official — puzzle/trivia community
+
+### YouTube
+- @JeffHighlandTrivia — trivia deep dives
+- @FactFiend — weird facts and history
+- @Jeopardy — official Jeopardy channel
+- @MentalFloss — educational entertainment
+
+### Facebook
+- Trivia Night Lovers (Group)
+- The Trivia Community (Group)
+- Pub Quiz Enthusiasts (Group)
+- Mobile Gamers United (Group)
+
+### Reddit
+- r/trivia
+- r/LearnUselessTalents
+- r/Jeopardy
+- r/androidgaming
+- r/iosgaming
+
+### X (Twitter)
+- @trilogyloops
+- @Jeopardy
+- @BuzzFeedQuiz
+- @MentalFloss
+- @HQTrivia
+
+### TikTok
+- @mahanlankarani — https://www.tiktok.com/@mahanlankarani
+- @triviatrap — trivia challenges
+- @quizzyquizzical — quick quiz content
+- @factsaboutfacts — educational facts
+- @collectorgames — mobile game collections
+
+## 9. Key Performance Indicators (KPIs)
 - **Cost Per Install (CPI):** Keep below industry averages by optimizing ad creatives.
 - **Day 1 / Day 7 Retention:** Crucial for measuring the stickiness of the core trivia loop and the Mystery Box timers.
 - **Average Revenue Per Daily Active User (ARPDAU):** Monitored to balance the free economy vs. IAP conversion.

@@ -3,11 +3,22 @@
 ## App Name
 Trivia Tango - Fun Quiz Duels
 
+## iOS Bundle ID
+triviatango.benjamin.com
+
+## Android Package Identifier
+triviatango.benjamin.com
+
+## App Store Url
+https://apps.apple.com/us/app/trivia-tango-fun-quiz-duels/id6762547360
+
 ## Subtitle
-Trivia Battles & Collectibles
+Quiz. Duel. Collect. Repeat.
+<!-- Current live value (as of last App Store Connect check). Note: ASO-wise this spends a top keyword field on branding — consider a keyword-rich alternative such as "Quiz Games & Trivia Duels". -->
 
 ## Promotional Text
-More than just a quiz! Battle friends, upgrade your Venue, and collect rare artifacts in this fast-paced trivia game.
+More than just a quiz! Battle friends, climb weekly leaderboards, upgrade your Venue, and collect rare artifacts in this fast-paced trivia game.
+<!-- ⚠️ This field is currently EMPTY in the live App Store Connect listing — it can be updated anytime without app review. Recommend filling it. -->
 
 ## Description
 
@@ -17,10 +28,14 @@ Trivia Tango goes beyond the standard trivia experience with unique features des
 
 Features:
 
-- Turn-Based Duels: Challenge friends or use Auto-Match to instantly generate a game tailored to both players' favorite subjects! Counter-pick categories, wager points, and steal the victory.
+- Turn-Based Duels: Challenge friends or use Auto-Match to instantly generate a game tailored to both players' favorite subjects! Counter-pick categories, wager points, and steal the victory. Always someone to play — instant-match opponents keep the games coming.
 - Curate Your Venue: Experience a collectible meta-game like no other. Earn coins, crack Mystery Boxes, and hoard legendary artifacts to evolve your display from a dusty Locker all the way to a world-class Palace.
+- Weekly Featured Events: Compete in limited-time events like "World History Week." Climb three leaderboards — top score, skill rating, and games played — and earn Gold, Silver, and Bronze medals for your profile.
+- Daily Streaks & Missions: Keep your streak alive for escalating Coin and Mystery Box rewards, and clear three fresh Daily Missions every day for bonus loot.
+- 100+ Achievements: Unlock Bronze-to-Diamond achievements across XP, category mastery, streaks, and multiplayer — each one pays out Coins, Gems, and boxes.
 - Deep-Dive Story Cards: The learning never stops. Uncover the hidden histories and shocking truths behind the answers with fully-voiced, text-to-speech Story Cards.
-- Track Your True Skill: Ditch simple win/loss records. Our advanced Glicko rating system tracks your mastery across specific topics and categories.
+- Play Hands-Free: Listen and answer out loud — Trivia Tango reads questions aloud and hears your spoken answers, so you can play eyes-free.
+- Track Your True Skill: Ditch simple win/loss records. Our advanced Glicko-2 rating system tracks your mastery across specific topics, categories, and overall.
 - Endless Trivia: Conquer a massive, ever-expanding library spanning 11 Mega Categories, from ancient History to cutting-edge Science.
 
 Trivia Tango Pro:
