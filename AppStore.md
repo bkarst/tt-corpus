@@ -13,38 +13,43 @@ triviatango.benjamin.com
 https://apps.apple.com/us/app/trivia-tango-fun-quiz-duels/id6762547360
 
 ## Subtitle
-Quiz. Duel. Collect. Repeat.
-<!-- Current live value (as of last App Store Connect check). Note: ASO-wise this spends a top keyword field on branding — consider a keyword-rich alternative such as "Quiz Games & Trivia Duels". -->
+Brain Games & Quiz Battles
+<!-- 26/30 chars. RECOMMENDED. Protects the highest-volume term you can own ("brain games") and adds "battles" for competitive bite + a keyword — all NOT already in the app name (which has trivia/quiz/duels). Apple indexes name + subtitle + keywords together, so don't repeat. Current LIVE value: "Quiz. Duel. Collect. Repeat." (branded, ~zero search value).
+     Alternatives by priority:
+     • Max swagger / weakest ASO: "Outsmart Your Friends" (21)
+     • Descriptive/flat: "Brain Games with Friends" (24)
+     • Keyword-led: "Quiz Battles & Brain Games" (26) -->
 
 ## Promotional Text
-More than just a quiz! Battle friends, climb weekly leaderboards, upgrade your Venue, and collect rare artifacts in this fast-paced trivia game.
-<!-- ⚠️ This field is currently EMPTY in the live App Store Connect listing — it can be updated anytime without app review. Recommend filling it. -->
+NEW: Weekly Featured Events. Climb live leaderboards, win medals. Keep your streak alive, crack Mystery Boxes, and out-duel your friends.
+<!-- 134/170 chars. ⚠️ Currently EMPTY in the live listing — updatable anytime WITHOUT app review. Lead with the freshest hook (Featured Events) since this sits above the description. Punched up to match the description's voice. -->
 
 ## Description
+<!-- Royal Match structure (hook → daily pull → "[App] features:" bullets) but re-voiced to Trivia Tango's brand register: cocky, confident, direct. Punched up: short sentences, hard verbs, filler cut, periods over exclamation points. ~900 / 4,000 chars. The live listing appends Apple's standard EULA line automatically — keep it. -->
 
-Step into the arena with Trivia Tango, the ultimate blend of high-stakes quiz battles and an addictive artifact collection meta-game! Outsmart rivals across thousands of questions, dominate turn-based multiplayer duels, and curate a gallery of rare treasures.
+Think you're the smartest in the room? Prove it.
 
-Trivia Tango goes beyond the standard trivia experience with unique features designed to reward your knowledge and curiosity.
+Challenge a friend to a trivia duel, outsmart them across thousands of questions, and walk off with the rare loot. Win once — you're hooked.
 
-Features:
+Trivia Tango features:
+• Duel friends in fast, turn-based battles. Counter-pick, wager, steal the win.
+• Crack Mystery Boxes and hoard treasures — Common to Mythical.
+• Top weekly leaderboards. Bank Gold, Silver, and Bronze medals.
+• Keep your daily streak alive for bigger rewards.
+• Unlock 100+ achievements. Stack the Coins, Gems, and boxes.
+• Grow your collection from a dusty Locker to a world-class Palace.
+• 11 categories. Thousands of questions. Never the same game twice.
+• Play hands-free — listen, answer out loud.
+• Uncover the wild true story behind every answer.
 
-- Turn-Based Duels: Challenge friends or use Auto-Match to instantly generate a game tailored to both players' favorite subjects! Counter-pick categories, wager points, and steal the victory. Always someone to play — instant-match opponents keep the games coming.
-- Curate Your Venue: Experience a collectible meta-game like no other. Earn coins, crack Mystery Boxes, and hoard legendary artifacts to evolve your display from a dusty Locker all the way to a world-class Palace.
-- Weekly Featured Events: Compete in limited-time events like "World History Week." Climb three leaderboards — top score, skill rating, and games played — and earn Gold, Silver, and Bronze medals for your profile.
-- Daily Streaks & Missions: Keep your streak alive for escalating Coin and Mystery Box rewards, and clear three fresh Daily Missions every day for bonus loot.
-- 100+ Achievements: Unlock Bronze-to-Diamond achievements across XP, category mastery, streaks, and multiplayer — each one pays out Coins, Gems, and boxes.
-- Deep-Dive Story Cards: The learning never stops. Uncover the hidden histories and shocking truths behind the answers with fully-voiced, text-to-speech Story Cards.
-- Play Hands-Free: Listen and answer out loud — Trivia Tango reads questions aloud and hears your spoken answers, so you can play eyes-free.
-- Track Your True Skill: Ditch simple win/loss records. Our advanced Glicko-2 rating system tracks your mastery across specific topics, categories, and overall.
-- Endless Trivia: Conquer a massive, ever-expanding library spanning 11 Mega Categories, from ancient History to cutting-edge Science.
+Trivia Tango Pro: zero ads, plus monthly Coins and Gems.
 
-Trivia Tango Pro:
-Upgrade to banish ads and claim a monthly bounty of Coins and Gems.
-
-Download Trivia Tango now and outsmart the competition!
+Download free — Outsmart. Collect. Dominate.
 
 ## Keywords
-trivia, quiz, multiplayer, collection, learning, educational, puzzle, party game, brain training, friends
+multiplayer,knowledge,iq,history,geography,science,puzzle,word,challenge,facts,collection
+<!-- 89/100 chars. Deliberately OMITS words already in the App Name/Subtitle (trivia, tango, quiz, fun, duels, brain, games, friends) — Apple indexes name + subtitle + keywords together, so repeating them wastes slots. Comma-separated, no spaces (spaces count against the 100-char limit). -->
+<!-- Previous value: trivia, quiz, multiplayer, collection, learning, educational, puzzle, party game, brain training, friends -->
 
 ## Categories
 Games > Trivia
@@ -53,40 +58,26 @@ Games > Educational
 ---
 
 ## App Store Screenshots Plan
+<!-- Style adapted from Royal Match (Dream Games), applied with common sense to Trivia Tango. -->
 
-To maximize conversion, we will include 7 highly visual, polished screenshots with bold captions at the top of each image.
+**The style, applied to us:**
+- **Slot 1 is an app-preview video** (logo lockup → a fast win), mirroring Royal Match's first slot.
+- Each screenshot is a real app screen on a **vibrant, full-bleed brand-color background** (Tango Red / Midnight Stage / Arena Gold) in a clean device frame — bright and scene-like, not a bare UI grab.
+- A **bold caption banner across the bottom** of every frame: white, uppercase, condensed, up to two lines, on one consistent ribbon shape/color throughout.
+- Captions are **imperative + stakes** (a mini-mission), never feature labels.
+- No mascot needed — the **rivalry and the collection carry the drama**: the duel screens and the treasure/venue screens are the emotional anchors.
 
-**Screenshot 1: Core Gameplay (The Hook)**
-- **Visual:** The `/game/[id]` view showing an active question, difficulty badge, and multiple-choice options with a vibrant timer.
-- **Caption:** "Test Your Knowledge!"
-- **Focus:** Showcases the clean, modern interface of the core trivia loop.
+**The 8 screenshots:**
 
-**Screenshot 2: Turn-Based Multiplayer**
-- **Visual:** The `/results/[id]/multiplayer` view showing a head-to-head score comparison, winner banner, and confetti animation.
-- **Caption:** "Challenge Your Friends!"
-- **Focus:** Highlights the competitive, social aspect of the game.
+| # | Frame | Caption (bottom banner) | Shows |
+|---|---|---|---|
+| 1 | App-preview VIDEO | logo + **PLAY** | Brand lockup → a quick win, mirrors RM slot 1 |
+| 2 | Multiplayer duel / head-to-head | **OUTSMART YOUR FRIENDS** | The core social hook |
+| 3 | Final-question wager moment | **STEAL THE WIN** | Tension/drama of the duel |
+| 4 | Mystery Box reward reveal | **CRACK THE BOX** | Loot payoff |
+| 5 | Artifact collection (Common→Mythical) | **HUNT RARE TREASURES** | Collection desire |
+| 6 | Weekly Featured Event leaderboard | **CLIMB THE LEADERBOARD** | Competition |
+| 7 | Venue progression (Locker→Palace) | **BUILD YOUR PALACE** | Long-term goal |
+| 8 | Featured medals on profile | **CLAIM YOUR MEDAL** | Status/reward |
 
-**Screenshot 3: The Venue & Collectibles**
-- **Visual:** The `/venue` or `/venue/artifacts` view displaying the gallery of color-coded artifacts (Common to Mythical) and the venue upgrade timeline.
-- **Caption:** "Build Your Ultimate Gallery!"
-- **Focus:** Introduces the unique metagame and long-term progression/collection hook.
-
-**Screenshot 4: Home Dashboard & Rewards**
-- **Visual:** The `/` (Home) view showing the 4 Mystery Box slots with unlock timers and the Daily Missions progress.
-- **Caption:** "Unlock Epic Rewards!"
-- **Focus:** Shows players how they can earn loot, mystery boxes, and daily streak bonuses.
-
-**Screenshot 5: Vast Category Selection**
-- **Visual:** The `/play/single` or `/select-categories` view showing the grid of 11 colorful Mega Categories and topics.
-- **Caption:** "Thousands of Topics!"
-- **Focus:** Demonstrates the breadth of content (History, Tech, Pop Culture, etc.) available to play.
-
-**Screenshot 6: Deep Statistics & Skill Ratings**
-- **Visual:** The `/profile` view highlighting the user's Level badge, Win Rate, Accuracy, and Glicko skill ratings.
-- **Caption:** "Track Your Skill Ratings!"
-- **Focus:** Appeals to competitive players who want to track your mastery and achievements.
-
-**Screenshot 7: Educational Story Cards**
-- **Visual:** The `/game/[id]` (Story View) or `/bookmarks` view showing an expanded explanation with the text-to-speech audio controls and visual illustration.
-- **Caption:** "Learn The Story Behind The Answer!"
-- **Focus:** Highlights the educational value and depth of the content beyond just multiple-choice questions.
+*Notes:* the first 3 are what search users see on the install sheet — lead with the duel (our strongest hook). Keep one consistent banner shape/color (Tango Red on Midnight Stage) and one board/scene treatment across all eight for a cohesive set, exactly as Royal Match does.
